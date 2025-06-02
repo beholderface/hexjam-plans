@@ -5,3 +5,4 @@
 3. Submissions must be available in English. If you are not fluent in English, machine translation is acceptable. This is an exception to rule #2.
 4. Submissions must be compatible with Hexcasting 0.11.2 on Fabric.
 5. Submissions must comply with the rules of the Petrak@'s Mods Discord server. If you wouldn't be able to send a given thing in there without necessitating moderator action, it should not be present in your submission.
+6. *NO MALWARE*
