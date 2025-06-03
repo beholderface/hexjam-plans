@@ -1,0 +1,6 @@
+- Most fun
+- Most cursed
+- Most innovative
+- Judges' choice
+- People's choice
+- Best documented
