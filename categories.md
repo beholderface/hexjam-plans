@@ -1,4 +1,3 @@
 - Most innovative
 - Most cursed
 - Best documented
-- People's choice
