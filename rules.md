@@ -6,3 +6,4 @@
 4. Submissions must be compatible with Hexcasting 0.11.2.
 5. Submissions must comply with the rules of the Petrak@'s Mods Discord server. If you wouldn't be able to send a given thing in there without necessitating moderator action, it should not be present in your submission.
 6. *NO MALWARE*
+7. If need be, judges may disqualify submissions which do not break these rules (I expect this to only be used if someone is generally interacting in bad faith, but idk). If one deems this necessary, a majority of judges must vote in favor of disqualification.
